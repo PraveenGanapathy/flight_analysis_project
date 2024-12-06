@@ -6,3 +6,10 @@ streamlit
 plotly
 python-dotenv
 kaggle
+pytz
+tzdata
+matplotlib
+kaleido
+nbformat
+nbconvert
+papermill
