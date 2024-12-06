@@ -11,6 +11,7 @@
 ## Structure
 ├── airflow/dags/    # Airflow DAGs
 ├── dashboard/       # Streamlit dashboard
-├── data/raw/       # Data storage
-├── scripts/        # Utility scripts
-└── config/         # Configurations
+├── data/            # Data storage
+├── notebooks/       # notebook
+├── scripts/         # Utility scripts
+└── config/          # Configurations
