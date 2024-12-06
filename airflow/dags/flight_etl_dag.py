@@ -12,20 +12,9 @@ import pandas as pd
 import io
 import papermill as pm
 import subprocess
-import os
-import subprocess
-import logging
-import boto3
-from sagemaker import get_execution_role
-from sagemaker import Session
-from sagemaker.processing import ProcessingInput, ProcessingOutput, ScriptProcessor
-from sagemaker import get_execution_role
+from sagemaker import get_execution_role, Session, ScriptProcessor, ProcessingInput, ProcessingOutput
 import shutil
-import os
-from airflow.providers.amazon.aws.hooks.s3 import S3Hook
 from airflow.utils.dates import days_ago
-import logging
-from airflow.operators.bash_operator import BashOperator
 import requests
 
 
