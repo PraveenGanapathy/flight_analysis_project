@@ -1,11 +1,19 @@
 # 🛩️ Flight Analysis Project
 
-## �요 Overview
+## 📊 Overview
 
 This project provides a comprehensive flight analysis solution using **modern data engineering tools**:
 - **Apache Airflow** for workflow orchestration
 - **Streamlit** for interactive dashboards
 - **Python** for data processing
+
+## 🏗️ Architecture
+
+![Project Architecture](./public/architecture.png)
+
+## 🎬 Demo
+
+![Project Demo](./public/demo.gif)
 
 ## 🚀 Setup Options
 
@@ -76,7 +84,7 @@ This project provides a comprehensive flight analysis solution using **modern da
 5. **Launch Streamlit Dashboard**
    ```bash
    cd dashboard
-   streamlit run app.py
+   streamlit run flight_etl_dag.py
    ```
 
 ## 🌐 Access Points
