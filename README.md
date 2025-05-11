@@ -9,7 +9,7 @@ This project provides a comprehensive flight analysis solution using **modern da
 
 ## 🏗️ Architecture
 
-![Project Architecture](./public/architecture.png)
+![Project Architecture](https://github.com/yourusername/flight_analysis_project/blob/main/public/architecture.png)
 
 ## 🎬 Demo
 
